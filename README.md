@@ -33,9 +33,10 @@ Screen shots:<img width="1355" alt="product screen shot" src="https://github.com
 <img width="1350" alt="Category-Screen Shot " src="https://github.com/Ahha0801/E-Commerce-Back-End/assets/128229173/f5df697c-2d5f-4ac8-8612-d1b93a3eef4b">
 
 ## Technologies
-Node.js
-Sequelize
-Express
+- [Node.js]
+- [Sequelize]
+- [Express]
+- [Insomina] 
 
 ## Contribution
 N/A
