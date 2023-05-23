@@ -10,7 +10,7 @@ E-Commerce Back End
 - [Contact Information](#contact-information)
 
 ## Description
-This is a back-end application for an ecommerce website created using the starter code provided by Penn LPS Coding bootcamp. It allows the addition of categories and products that can be assigned tags.
+This is a back-end application for an ecommerce website created. It allows the addition of categories and products that can be assigned tags.
 
 ## Installation
 Node.js downloaded
