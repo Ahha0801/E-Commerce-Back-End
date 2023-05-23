@@ -21,7 +21,10 @@ server to load schema with npm start
 
 
 ## Usage
-Walk-through video link: Uploading Ecommece walk-thur.mov…
+Walk-through video link: 
+
+https://github.com/Ahha0801/E-Commerce-Back-End/assets/128229173/239d3690-7179-40aa-881e-69fe374115c0
+
 
 Screen shots:<img width="1355" alt="product screen shot" src="https://github.com/Ahha0801/E-Commerce-Back-End/assets/128229173/79467e88-38b4-447a-9ab1-e3793ced53f0">
 
