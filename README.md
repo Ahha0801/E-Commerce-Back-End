@@ -18,8 +18,10 @@ npm install
 mysql run source db/schema.sql
 server to load schema with npm start
 
+
+
 ## Usage
-Walk-through video link:
+Walk-through video link: Uploading Ecommece walk-thur.mov…
 
 Screen shots:<img width="1355" alt="product screen shot" src="https://github.com/Ahha0801/E-Commerce-Back-End/assets/128229173/79467e88-38b4-447a-9ab1-e3793ced53f0">
 
